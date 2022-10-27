@@ -67,16 +67,6 @@ body{
     font-weight: 600;
 }
 
-.form .title::before{
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 3px;
-    width: 30px;
-    background-color: #9e3d09;
-    border-radius: 25px;
-}
 
 .form .input-field{
     position: relative;
